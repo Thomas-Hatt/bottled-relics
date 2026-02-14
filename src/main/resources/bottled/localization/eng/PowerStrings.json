@@ -1,0 +1,88 @@
+{
+  "${modID}:ShurikenPower": {
+    "NAME":"Shuriken",
+    "DESCRIPTIONS": [
+      "Every time you play #b",
+      " #yAttacks in a single turn, gain #b",
+      " #yStrength for the rest of combat."
+    ]
+  },
+
+  "${modID}:KunaiPower": {
+    "NAME":"Kunai",
+    "DESCRIPTIONS": [
+      "Every time you play #b",
+      " #yAttacks in a single turn, gain #b",
+      " #yDexterity for the rest of combat."
+    ]
+  },
+
+  "${modID}:LetterOpenerPower": {
+    "NAME":"Letter Opener",
+    "DESCRIPTIONS": [
+      "Every time you play #b3 #ySkills in a single turn, deal #b",
+      " damage to ALL enemies."
+    ]
+  },
+
+  "${modID}:OrnamentalFanPower": {
+    "NAME":"Ornamental Fan",
+    "DESCRIPTIONS": [
+      "Every time you play #b3 #yAttacks in a single turn, gain #b",
+      " #yBlock."
+    ]
+  },
+
+  "${modID}:PocketWatchPower": {
+    "NAME":"Pocket Watch",
+    "DESCRIPTIONS": [
+      "Whenever you play #b3 or less cards during your turn, draw #b",
+      " additional cards at the start of your next turn."
+    ]
+  },
+
+  "${modID}:SneckoEyePower": {
+    "NAME":"Snecko Eye",
+    "DESCRIPTIONS": [
+      "At the start of your turn, draw #b",
+      " additional cards. Start each turn #yConfused."
+    ]
+  },
+
+  "${modID}:StrikeDummyPower": {
+    "NAME":"Strike Dummy",
+    "DESCRIPTIONS": [
+      "Cards containing \"Strike\" deal #b",
+      " additional damage."
+    ]
+  },
+
+  "${modID}:WarpedTongsPower": {
+    "NAME":"Warped Tongs",
+    "DESCRIPTIONS": [
+      "At the start of your turn, #yUpgrade a random card in your hand for the rest of combat.",
+      "At the start of your turn, #yUpgrade #b",
+      " random cards in your hand for the rest of combat."
+    ]
+  },
+
+  "${modID}:DeadBranchPower": {
+    "NAME":"Dead Branch",
+    "DESCRIPTIONS": [
+      "Whenever you #yExhaust a card, add a random card to your hand.",
+      "Whenever you #yExhaust a card, add #b",
+      " random cards to your hand."
+    ]
+  },
+
+  "${modID}:GremlinHornPower": {
+    "NAME":"Gremlin Horn",
+    "DESCRIPTIONS": [
+      "Whenever an enemy dies, gain [E] and draw #b",
+      " cards.",
+      "Whenever an enemy dies, gain #b",
+      " [E] and draw #b",
+      " cards."
+    ]
+  }
+}

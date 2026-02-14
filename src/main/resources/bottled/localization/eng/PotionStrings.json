@@ -1,0 +1,80 @@
+{
+  "${modID}:Shuriken": {
+    "NAME": "Shuriken in a Bottle",
+    "DESCRIPTIONS": [
+      "Every time you play #b",
+      " #yAttacks in a single turn, gain #b",
+      " #yStrength for the rest of combat."
+    ]
+  },
+  "${modID}:Kunai": {
+    "NAME": "Kunai in a Bottle",
+    "DESCRIPTIONS": [
+      "Every time you play #b",
+      " #yAttacks in a single turn, gain #b",
+      " #yDexterity for the rest of combat."
+    ]
+  },
+  "${modID}:LetterOpener": {
+    "NAME": "Bottled Letter Opener",
+    "DESCRIPTIONS": [
+      "Every time you play #b3 #ySkills in a single turn, deal #b",
+      " damage to ALL enemies."
+    ]
+  },
+  "${modID}:OrnamentalFan": {
+    "NAME": "Bottled Ornamental Fan",
+    "DESCRIPTIONS": [
+      "Every time you play #b3 #yAttacks in a single turn, gain #b",
+      " #yBlock."
+    ]
+  },
+  "${modID}:PocketWatch": {
+    "NAME": "Bottled Pocket Watch",
+    "DESCRIPTIONS": [
+      "Whenever you play #b3 or less cards during your turn, draw #b",
+      " additional cards at the start of your next turn."
+    ]
+  },
+  "${modID}:SneckoEye": {
+    "NAME": "Snecko Eye in a Bottle",
+    "DESCRIPTIONS": [
+      "At the start of your turn, draw #b",
+      " additional cards. Start each turn #yConfused."
+    ]
+  },
+  "${modID}:StrikeDummy": {
+    "NAME": "Dummy in a Bottle",
+    "DESCRIPTIONS": [
+      "Cards containing \"Strike\" deal #b",
+      " additional damage."
+    ]
+  },
+  "${modID}:WarpedTongs": {
+    "NAME": "Warped Tongs in a Bottle",
+    "DESCRIPTIONS": [
+      "At the start of your turn, #yUpgrade a random card in your hand for the rest of combat.",
+      "At the start of your turn, #yUpgrade #b",
+      " random cards in your hand for the rest of combat."
+    ]
+  },
+  "${modID}:DeadBranch": {
+    "NAME": "Branch in a Bottle",
+    "DESCRIPTIONS": [
+      "Whenever you #yExhaust a card, add a random card to your hand.",
+      "Whenever you #yExhaust a card add #b",
+      " random cards to your hand."
+    ]
+  },
+
+  "${modID}:GremlinHorn": {
+    "NAME": "Gremlin in a Bottle",
+    "DESCRIPTIONS": [
+      "Whenever an enemy dies, gain [E] and draw #b",
+      " cards.",
+      "Whenever an enemy dies, gain #b",
+      " [E] and draw #b",
+      " cards."
+    ]
+  }
+}
